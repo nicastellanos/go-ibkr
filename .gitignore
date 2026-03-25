@@ -1,0 +1,7 @@
+# Go binaries
+bin/
+go-ibkr-bot/trading_bot
+
+# Local environment
+.env
+.hg/
