@@ -20,7 +20,7 @@ To allow the bot to connect, configure the Gateway as follows:
 ### 3. Installation & Run
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/go-ibkr-collector.git
+git clone https://github.com/nicastellanos/go-ibkr-collector.git
 cd go-ibkr-collector
 
 # Install dependencies
